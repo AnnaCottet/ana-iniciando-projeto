@@ -1,10 +1,8 @@
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1728px) {
     /* Código omitido */
   
-    .opções_botão {
-      display: none;
+    .container__texto {
+      display: block;
     }
-  
-    /* Código omitido */
   }
   
